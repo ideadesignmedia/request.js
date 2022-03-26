@@ -1,0 +1,7 @@
+{
+  "name": "@ideadesignmedia/request",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "ideadesignmedia <samwagnermedia@gmail.com>",
+  "license": "MIT"
+}
